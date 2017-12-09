@@ -327,7 +327,7 @@ let detailRender = (function () {
     }
 })();
 
-detailRender.init(1);
+loadingRender.init(1);
 
 /*
  * 基于SWIPER实现每一个页面的动画
